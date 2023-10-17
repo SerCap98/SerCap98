@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, I'm Sergio Capón! 👋
+
+🌎 I'm a passionate student of Computer Engineering in Venezuela, currently wrapping up my final year at the Universidad Católica Andrés Bello. My heart beats to the rhythm of code, and I love delving into the mysteries of software development.
+
+💡 My focus extends to both sides of the spectrum: I'm equally intrigued by backend and frontend development, although my true passion lies in the robust and efficient crafting of server-side applications.
+
+🛠️ I've explored various frameworks, from the mysteries of .NET and Nest to the wonders of Angular and Django. My language palette spans from C++, C#, JavaScript, Python, to TypeScript. The diversity of technologies has allowed me to develop a versatile approach and a set of interdisciplinary skills.
+
+🚀 My journey in the world of software development has been exciting and ever-evolving, and I'm thrilled for what the future holds. Join me as we explore the fascinating world of code together!
 
 ### Some language I use:
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
