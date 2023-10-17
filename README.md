@@ -1,4 +1,4 @@
-### Hello, I'm Sergio Capón! 👋
+### Hello, I'm Sergio Capon! 👋
 
 🌎 I'm a passionate student of Computer Engineering in Venezuela, currently wrapping up my final year at the Universidad Católica Andrés Bello. My heart beats to the rhythm of code, and I love delving into the mysteries of software development.
 
